@@ -3,7 +3,9 @@ To login into Dev Portal of SAP API Management, you need to have a S-User ID or 
 
 S-User ID is generally provisioned if your company has a partnership with SAP. If not, you can create a P-User ID(personal ID) in the following way:
 
-1) Go to https://community.sap.com/. Click on login/sign up. Click on Register.
+1) Go to https://community.sap.com/ 
+
+Click on login/sign up and click on Register.
 ![](https://github.com/danone/sapcp.apim-general/blob/main/docs/images/Registration1.png?raw=true)
 
 2) Enter all the required information on the registration screen.
