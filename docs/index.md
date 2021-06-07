@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## 1. Pre-requisites
+To login into Dev Portal of SAP API Management, you need to have a S-User ID or a P-User ID. 
 
-You can use the [editor on GitHub](https://github.com/danone/sapcp.apim-general/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+S-User ID is generally provisioned if your company has a partnership with SAP. If not, you can create a P-User ID(personal ID) in the following way:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1) Go to https://community.sap.com/. Click on login/sign up. Click on Register.
+![](https://github.com/danone/sapcp.em-general/blob/main/images/Registration1.png?raw=true)
 
-### Markdown
+2) Enter all the required information on the registration screen.
+![](https://github.com/danone/sapcp.em-general/blob/main/images/Registration2.png?raw=true)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+3) The activation link will be sent to the email address provided by you on this screen, so enter a valid email address.
 
-```markdown
-Syntax highlighted code block
+4) Click on the activation link – once activated, your registration is complete.
 
-# Header 1
-## Header 2
-### Header 3
+## 2. SAP API Management Dev Portal URL
+https://proddevportalapimgmtpr-danonequaeu.hana.ondemand.com/?saml2idp=accounts.sap.com
 
-- Bulleted
-- List
+## 3. Request Access
+Click on the Dev portal URL provided in the above step 2. You will get a login pop-up like below. Enter your S-User ID or P-User ID credentials in it.
 
-1. Numbered
-2. List
+![](https://github.com/danone/sapcp.em-general/blob/main/images/Login%20popup.png?raw=true)
 
-**Bold** and _Italic_ and `Code` text
+You will land on this below page and click on "Register" button. Upon clicking, you will be asked to enter a reason why you would like get access on the Dev portal.
 
-[Link](url) and ![Image](src)
-```
+![](https://github.com/danone/sapcp.em-general/blob/main/images/Registration3.png?raw=true)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Enter reason and the country where you are from.
 
-### Jekyll Themes
+![](https://github.com/danone/sapcp.em-general/blob/main/images/Registration4.png?raw=true)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/danone/sapcp.apim-general/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Upon submission of this registration form, admin team of SAP API Management will receive a notification of your request and will approve it accordingly. Upon approval, you will notified by an email that your request is approved.
 
-### Support or Contact
+![](https://github.com/danone/sapcp.em-general/blob/main/images/ApprovalNotification.png?raw=true)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If your request is not approved for a long time, you can reach out to us on sap-cloud-integration@danone.com
