@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: SAP API Management Dev Portal
 description: A guide on how to get access on Dev Portal
+github:
+  is_project_page: false
