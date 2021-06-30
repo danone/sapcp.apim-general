@@ -46,4 +46,4 @@ Once your request is approved, you can login back into the SAP API Management De
 
 ## 5. More information on how to use the Dev Portal
 You can download the user guide on how to navigate and use the Dev Portal by clicking the following link:
-[Click here to download the User Guide](https://github.com/danone/sapcp.apim-general/blob/main/docs/SAP%20API%20Management%20Dev%20Portal%20User%20Guide%20-%20v1.docx)
+[Click here to download the User Guide](https://github.com/danone/sapcp.apim-general/blob/main/docs/SAP%20API%20Management%20Dev%20Portal%20User%20Guide%20-%20v1.docx?raw=true)
