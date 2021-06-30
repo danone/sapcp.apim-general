@@ -38,3 +38,12 @@ Upon submission of this registration form, admin team of SAP API Management will
 ![](https://github.com/danone/sapcp.apim-general/blob/main/docs/images/ApprovalNotification.png?raw=true)
 
 If your request is not approved for a long time, you can reach out to us on sap-cloud-integration@danone.com
+
+## 4. Landing page of SAP API Management Dev Portal
+Once your request is approved, you can login back into the SAP API Management Dev Portal URL given in the above section 2. Below is the landing page you should see:
+
+![](https://github.com/danone/sapcp.apim-general/blob/main/docs/images/Landing_page.png?raw=true)
+
+## 5. More information on how to use the Dev Portal
+You can download the user guide on how to navigate and use the Dev Portal by clicking the below link:
+[Click here to download the User Guide](https://github.com/danone/sapcp.apim-general/blob/main/docs/SAP%20API%20Management%20Dev%20Portal%20User%20Guide%20-%20v1.docx)
