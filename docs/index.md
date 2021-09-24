@@ -16,12 +16,12 @@ Click on login/sign up and click on Register.
 4) Click on the activation link – once activated, your registration is complete.
 
 ## 2. SAP API Management Dev Portal URL
-<https://proddevportalapimgmtpr-danonequaeu.hana.ondemand.com/?saml2idp=accounts.sap.com>
+<https://q81.apibhubenterprise.cfapps.eu10.hana.ondemand.com/?saml2idp=accounts.sap.com>
 
 ## 3. Request Access to the dev portal
 Once you fulfill the pre-requisites of step 1, you can finally request for the dev portal access. This step explains how you can do that.
 
-Click on the Dev portal URL provided in the above step 2. You will get a login pop-up like below. Enter your S-User ID or P-User ID credentials in it.
+Click on the Dev portal URL provided in the above step 2. You may get a login pop-up like below screenshot or a landing page which asks for credentials. Enter your S-User ID or P-User ID credentials in it.
 
 ![](https://github.com/danone/sapcp.apim-general/blob/main/docs/images/Login%20popup.png?raw=true)
 
